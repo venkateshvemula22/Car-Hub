@@ -31,6 +31,15 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types> 
+
+    <types>
+        <members>CAR_HUB</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Car_Explorer</members>
+        <name>FlexiPage</name>
     </types>
     <version>59.0</version>
 </Package>
